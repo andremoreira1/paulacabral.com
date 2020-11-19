@@ -1,5 +1,5 @@
-# sample "about me" page
+# Personal Portfolio Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dburrell/pen/xbddYm](https://codepen.io/dburrell/pen/xbddYm).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/tiffanyadu/pen/QpdMmr](https://codepen.io/tiffanyadu/pen/QpdMmr).
 
-Front section inspired (pretty much forked) from http://codepen.io/DivDax/pen/QwdBpo
+This is a portfolio page I made for a FreeCodeCamp project. It's a simple one-page site that was built using Bootstrap 3 and some jQuery.
